@@ -6,7 +6,7 @@
 
 # Rise of Kingdom Bot
 
-### **Introduction**
+### **Introduction - Test** 
 
 Rise of Kingdom Bot can do following job: claim quests/vip/gifts, collecting resource, gathering resource, donate techology, train troops and pass verification.
 
